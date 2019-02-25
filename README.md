@@ -1,5 +1,6 @@
-https://github.com/zakharovvu/dropdown-react/pull/1/files
-https://zakharovvu.github.io/dropdown-react/
+
+# [PREVIEW](https://zakharovvu.github.io/dropdown-react/)
+# [PR](https://github.com/zakharovvu/dropdown-react/pull/1/files)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
